@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GroupChatServiceWithSignalR", "GroupChatServiceWithSignalR\GroupChatServiceWithSignalR.csproj", "{CF4D39DC-18F8-4C4A-9C06-23B29016D4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF4D39DC-18F8-4C4A-9C06-23B29016D4FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF4D39DC-18F8-4C4A-9C06-23B29016D4FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF4D39DC-18F8-4C4A-9C06-23B29016D4FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF4D39DC-18F8-4C4A-9C06-23B29016D4FC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BF33837-87EB-449A-9B66-29F46A38A3BD}
+	EndGlobalSection
+EndGlobal
