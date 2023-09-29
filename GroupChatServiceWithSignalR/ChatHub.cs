@@ -11,6 +11,7 @@ namespace GroupChatServiceWithSignalR
         {
             this.env = env;
         }
+        //send message
         public Task SendMessageToGroup(string groupName, string message, string userName)
         {
             return Clients.Group(groupName).SendAsync("Send", $"{Context.ConnectionId}-{userName}: {message}");
